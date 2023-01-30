@@ -1,0 +1,5 @@
+
+amount deposited:1000on time: 2023-01-10 10:42:40.536339
+amount withdrawal:500on time: 2023-01-10 10:42:43.361812
+balance checked atNoneon time:2023-01-10 10:42:44.220320
+transaction completed on time: 2023-01-10 10:42:45.645503

@@ -1,0 +1,2 @@
+this is w+ mode exemple
+this is r+ mode exemple
